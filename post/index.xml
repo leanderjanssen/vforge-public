@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on vForge</title>
+    <link>https://vforge.net/post/</link>
+    <description>Recent content in Posts on vForge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 May 2016 13:52:10 +0200</lastBuildDate>
+    <atom:link href="https://vforge.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hellonewworld</title>
+      <link>https://vforge.net/post/hellonewworld/</link>
+      <pubDate>Thu, 12 May 2016 13:52:10 +0200</pubDate>
+      
+      <guid>https://vforge.net/post/hellonewworld/</guid>
+      <description>&lt;p&gt;Hello brave new world!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>helloworld</title>
+      <link>https://vforge.net/post/helloworld/</link>
+      <pubDate>Wed, 11 May 2016 23:19:56 +0200</pubDate>
+      
+      <guid>https://vforge.net/post/helloworld/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
