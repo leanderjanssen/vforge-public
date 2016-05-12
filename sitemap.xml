@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://vforge.net/</loc>
+    <loc>/</loc>
     <lastmod>2016-05-12T13:52:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vforge.net/post/hellonewworld/</loc>
+    <loc>/post/hellonewworld/</loc>
     <lastmod>2016-05-12T13:52:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vforge.net/post/helloworld/</loc>
+    <loc>/post/helloworld/</loc>
     <lastmod>2016-05-11T23:19:56+02:00</lastmod>
   </url>
   
